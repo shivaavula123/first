@@ -1,5 +1,4 @@
 //Program for the unit conversion
-//Nangunuri Nagaraju
 #include<stdio.h>
 int main(){
 	int p,number;
